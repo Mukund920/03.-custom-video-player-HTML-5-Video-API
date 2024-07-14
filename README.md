@@ -58,3 +58,7 @@ The Custom Video Player project is a simple web-based video player that provides
 
 3. **CSS:**
    - Styles for the video player, controls, and other elements are defined in the CSS files to ensure a consistent and visually appealing layout.
+
+![custom video player](https://github.com/user-attachments/assets/067dbfe2-3add-4b74-bd41-402757333ea1)
+
+
