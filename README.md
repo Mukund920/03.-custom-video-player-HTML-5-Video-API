@@ -13,20 +13,6 @@ The Custom Video Player project is a simple web-based video player that provides
 - Display the current timestamp of the video
 - Click on the progress bar to seek to a specific time in the video
 
-## Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/custom-video-player.git
-    ```
-
-2. Navigate to the project directory:
-    ```sh
-    cd custom-video-player
-    ```
-
-3. Open `index.html` in your web browser to view the custom video player.
-
 ## Usage
 
 - Click the play button to start the video.
