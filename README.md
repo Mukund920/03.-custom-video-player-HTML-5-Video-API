@@ -7,11 +7,11 @@ The Custom Video Player project is a simple web-based video player that provides
 
 ## Features
 
-- Play and pause the video
-- Stop the video and reset it to the beginning
-- Update the progress bar as the video plays
-- Display the current timestamp of the video
-- Click on the progress bar to seek to a specific time in the video
+- Play and pause the video.
+- Stop the video and reset it to the beginning.
+- Update the progress bar as the video plays.
+- Display the current timestamp of the video.
+- Click on the progress bar to seek to a specific time in the video.
 
 ## Usage
 
